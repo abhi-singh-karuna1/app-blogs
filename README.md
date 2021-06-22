@@ -1,0 +1,2 @@
+# app-blogs
+django framework
